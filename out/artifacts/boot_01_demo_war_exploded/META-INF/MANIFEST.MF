@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: 86185
+Build-Jdk: Eclipse Temurin version 17.0.7
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.atwt
+Main-Class: ${start-class}
+

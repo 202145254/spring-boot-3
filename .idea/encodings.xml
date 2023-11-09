@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/3.1.5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-01-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-01-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-02-initializr/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-02-initializr/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-03-yaml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-03-yaml/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-04-logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-04-logging/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-05-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-05-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-06-ssm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-06-ssm/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-07-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-07-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-07-listener/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-07-listener/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-08-robot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-08-robot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-09-robot-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-09-robot-start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-09-robot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-09-robot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-10-robot-core-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-10-robot-core-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-11-robot-core-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fuxi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../maven/maven-repo/org/springframework/boot/spring-boot-starter-parent/3.1.5/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

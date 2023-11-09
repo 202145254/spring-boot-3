@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="boot-06-ssm" />
+        <module name="spring-boot-3" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boot-01-demo" target="17" />
+      <module name="boot-02-initializr" target="17" />
+      <module name="boot-02-yaml" target="17" />
+      <module name="boot-03-yaml" target="17" />
+      <module name="boot-04-logging" target="17" />
+      <module name="boot-05-web" target="17" />
+      <module name="boot-07-core" target="17" />
+      <module name="boot-07-listener" target="17" />
+      <module name="boot-08-robot-starter" target="17" />
+      <module name="boot-09-robot-starter" target="17" />
+      <module name="boot-10-robot-core-starter" target="17" />
+      <module name="boot-11-robot-core-starter" target="17" />
+      <module name="demo" target="17" />
+      <module name="demo-01" target="17" />
+      <module name="fuxi" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="boot-01-demo" options="-parameters" />
+      <module name="boot-02-initializr" options="-parameters" />
+      <module name="boot-02-yaml" options="-parameters" />
+      <module name="boot-03-yaml" options="-parameters" />
+      <module name="boot-04-logging" options="-parameters" />
+      <module name="boot-05-web" options="-parameters" />
+      <module name="boot-06-ssm" options="-parameters" />
+      <module name="boot-07-core" options="-parameters" />
+      <module name="boot-07-listener" options="-parameters" />
+      <module name="boot-08-robot-starter" options="-parameters" />
+      <module name="boot-09-robot-starter" options="-parameters" />
+      <module name="boot-10-robot-core-starter" options="-parameters" />
+      <module name="boot-11-robot-core-starter" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="demo-01" options="-parameters" />
+      <module name="fuxi" options="-parameters" />
+      <module name="spring-boot-3" options="" />
+    </option>
+  </component>
+</project>

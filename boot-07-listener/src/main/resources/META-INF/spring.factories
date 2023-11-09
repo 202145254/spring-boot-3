@@ -1,0 +1,3 @@
+org.springframework.boot.SpringApplicationRunListener=com.atwt.bootListener.listener.MyApplicationRunListener
+org.springframework.boot.BootstrapRegistryInitializer=com.atwt.bootListener.listener.MyBootStrapRegistryInitializer
+org.springframework.context.ApplicationListener=com.atwt.bootListener.listener.MyApplicationListener
